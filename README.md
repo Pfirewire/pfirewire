@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pfirewire&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 **Pfirewire/pfirewire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
